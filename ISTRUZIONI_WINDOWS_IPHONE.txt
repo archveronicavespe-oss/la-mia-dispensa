@@ -1,0 +1,34 @@
+LA MIA DISPENSA — VERSIONE GITHUB PAGES (V9)
+
+Importante: pubblica su GitHub soltanto i file dell’app qui presenti.
+NON caricare il backup JSON contenente la tua spesa, i prodotti o dati personali.
+
+DA COMPUTER WINDOWS:
+1. Entra in https://github.com e crea un account gratuito (se serve).
+2. Clicca + > New repository.
+3. Nome repository: la-mia-dispensa. Seleziona PUBLIC e crea il repository.
+4. Nel repository fai clic su "uploading an existing file" (oppure Add file > Upload files).
+5. Prima estrai lo ZIP. Seleziona TUTTI i file e la cartella icons, senza racchiuderli in una cartella extra.
+6. Clicca Commit changes per salvare il caricamento.
+7. Vai in Settings > Pages. In Build and deployment scegli "Deploy from a branch".
+8. In Branch seleziona "main" e "/ (root)", poi Save.
+9. Il sito sarà disponibile all’indirizzo:
+   https://TUO-USERNAME.github.io/la-mia-dispensa/
+
+DA iPHONE:
+10. Apri l’indirizzo in Safari; attendi il primo caricamento con Internet.
+11. Condividi > Aggiungi alla schermata Home > attiva Apri come app web > Aggiungi.
+12. Se hai dati già salvati su Netlify/Tiiny Host, prima esporta il backup dalla vecchia app.
+    Poi, nella NUOVA app installata, vai su Dati > Importa backup.
+13. Prima di cancellare la vecchia icona, controlla che i dati siano visibili nella nuova app.
+
+NOTE:
+- GitHub Pages è gratuito per i repository pubblici con GitHub Free.
+- Il codice dell’app è pubblico; i dati inseriti rimangono nel browser sul dispositivo.
+- L’app può aprirsi senza connessione dopo il primo caricamento e la cache dei file.
+- L’OCR per scontrini e prodotti richiede Internet per caricare il motore quando serve.
+- Le notifiche automatiche in background NON sono attivate; i promemoria vanno esportati
+  nel Calendario dell’iPhone.
+- I dati non si sincronizzano in automatico fra iPhone e PC.
+- Esporta regolarmente un backup: eliminare l’app o pulire la memoria del browser può
+  cancellare i dati salvati localmente.
